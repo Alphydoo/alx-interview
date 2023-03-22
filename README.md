@@ -1,4 +1,4 @@
-### alx-interview
+# alx-interview
 ---
 
 ## Directories
@@ -8,8 +8,6 @@
 
 
 
-
----
-# Author
----
+--
+## Author
 * Alphonsus Oshiole*
