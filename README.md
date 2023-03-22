@@ -8,6 +8,6 @@
 
 
 
---
+
 ## Author
-* Alphonsus Oshiole*
+* **Alphonsus Oshiole**
